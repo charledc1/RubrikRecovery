@@ -1,0 +1,4 @@
+VMName,HostSelection,DisableNetwork,RemoveNetworkDevices,RubrikPowerOn,RunScriptsinLiveMount,PreFailoverScript,PostFailoverScriptDelay,PostFailoverScript,NextVMFailoverDelay,PreFailoverUserPrompt,PostFailoverUserPrompt,vCenterPowerOn,ConfigureNIC,PortGroup,ConnectNIC
+Azure-VM01,RANDOM,FALSE,FALSE,FALSE,FALSE,,0,,0,,,TRUE,TRUE,Isolated,TRUE
+Azure-VM02,RANDOM,FALSE,FALSE,FALSE,FALSE,,0,,0,,,TRUE,TRUE,Isolated,TRUE
+Azure-VM03,RANDOM,FALSE,FALSE,FALSE,FALSE,,0,,0,,,TRUE,TRUE,Isolated,TRUE

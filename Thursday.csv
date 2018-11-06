@@ -1,0 +1,5 @@
+VMName,HostSelection,Datastore,DisableNetwork,RemoveNetworkDevices,RubrikPowerOn,RunScriptsinLiveMount,PreFailoverScript,PostFailoverScriptDelay,PostFailoverScript,NextVMFailoverDelay,PreFailoverUserPrompt,PostFailoverUserPrompt,vCenterPowerOn,ConfigureNIC,PortGroup,ConnectNIC
+NE-PRD-EXT01,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NE-PRD-MAIL01,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NE-PRD-DOMIBM1,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NE-PRD-DOMHB01,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,

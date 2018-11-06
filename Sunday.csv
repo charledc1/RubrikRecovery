@@ -1,0 +1,11 @@
+VMName,HostSelection,Datastore,DisableNetwork,RemoveNetworkDevices,RubrikPowerOn,RunScriptsinLiveMount,PreFailoverScript,PostFailoverScriptDelay,PostFailoverScript,NextVMFailoverDelay,PreFailoverUserPrompt,PostFailoverUserPrompt,vCenterPowerOn,ConfigureNIC,PortGroup,ConnectNIC
+EQU95VFTP01,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NEPRDDB1,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NE-PRD-WEB3,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NEPRDCHRDB1,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+EXN931,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+APPL0903,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+UTIL0201,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+APPL0904,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+NE-PRD-DDB01,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
+EXN011,chiesx01.nittsu.com,RUBRIK_EXPORT,TRUE,FALSE,FALSE,TRUE,,0,,0,,,FALSE,FALSE,,
